@@ -30,6 +30,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur voluptatem quisquam sed fugiat exercitationem doloremque aliquam neque, omnis eos natus, totam ratione voluptas repellat asperiores? Sit adipisci illo beatae!
             Facere, eum, ea fuga aperiam ratione enim neque vel alias beatae autem expedita ullam, illo eos. Nemo consequuntur natus facere, reprehenderit, accusamus culpa quae tempora quis iste nisi vel. Perspiciatis!
         </p>
+        <hr>
     </div>
 </body>
 </html>
