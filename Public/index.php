@@ -15,13 +15,13 @@
         <p class="mt-5 shadow p-3 rounded">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ducimus eveniet odio, dolores illo quidem. Magni neque voluptatibus recusandae ex laborum repellendus, maiores vitae saepe reiciendis officia, sit ipsa perferendis.</p>
         <form action="" class="form form-group mt-5">
             <div class="form-group">
-                <input type="text" placeholder="Nom" class="form-control">
+                <input type="text" placeholder="Nom" class="form-control shadow-sm">
             </div>
             <div class="form-group">
-                <input type="text" placeholder="Prénom" class="form-control">
+                <input type="text" placeholder="Prénom" class="form-control shadow-sm">
             </div>
             <div class="form-group">
-                <input type="email" placeholder="Email" class="form-control">
+                <input type="email" placeholder="Email" class="form-control shadow-sm">
             </div>
 
             <button class="btn btn-primary">Envoyer Maintenant CV</button>
