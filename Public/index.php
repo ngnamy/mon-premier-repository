@@ -12,7 +12,19 @@
     <div class="container pt-3">
         <h1 class="text-center h1">Hello body</h1>
         <p class="mt-5 shadow p-3 rounded">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos ducimus eveniet odio, dolores illo quidem. Magni neque voluptatibus recusandae ex laborum repellendus, maiores vitae saepe reiciendis officia, sit ipsa perferendis.</p>
-        <button class="btn btn-primary">Envoyer Maintenant CV</button>
+        <form action="" class="form form-group mt-5">
+            <div class="form-group">
+                <input type="text" placeholder="Nom" class="form-control">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Prénom" class="form-control">
+            </div>
+            <div class="form-group">
+                <input type="email" placeholder="Email" class="form-control">
+            </div>
+            
+            <button class="btn btn-primary">Envoyer Maintenant CV</button>
+        </form>
     </div>
 </body>
 </html>
